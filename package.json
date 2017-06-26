@@ -1,9 +1,6 @@
 {
   "name": "vueAdnTypescript",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "bowendeng",
-  "private": true,
   "typings": "lib/index.d.ts",
   "files": [
     "dist",
